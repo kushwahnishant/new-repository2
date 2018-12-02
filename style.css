@@ -1,0 +1,10 @@
+body{
+	background-image:linear-gradient(to right,orange,white,green);
+}
+h1{
+	background-color:blue;
+	border: 4px double black;
+	padding: 50px
+	
+
+}
